@@ -4,7 +4,7 @@ The IPL, or Indian Premier League, is a professional Twenty20 cricket league in 
 For this project the data was taken for the period of 2008 to 2017
 (Source File : https://data.world/mkhuzaima/ipl-data-till-2017)
 
-**Tools Used : ** MySQL, Tableau
+**Tools Used:** MySQL, Tableau
 
 **The dataset comprises five primary categories:**
 Teams: Details of participating teams  
