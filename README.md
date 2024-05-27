@@ -1,3 +1,4 @@
+![IPL-Logo](https://github.com/SampathVSS/Data-Analysis-MySQL/assets/170193799/95f49f45-a823-4d9a-aa41-525340b7b239)
 The IPL, or Indian Premier League, is a professional Twenty20 cricket league in India. Founded by the Board of Control for Cricket in India (BCCI) in 2007, it has since become one of the most popular and lucrative cricket leagues globally. The league features franchise teams representing various cities in India and has attracted top cricket players worldwide. Typically held annually during the Indian summer, from March to May, the IPL enjoys a significant following both in India and internationally.
 For this project the data was taken for the period of 2008 to 2017
 (Source File : https://data.world/mkhuzaima/ipl-data-till-2017)
